@@ -39,6 +39,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0wuUQczXKdUuu9wCgXii-2" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;Sistema de Caixa Eletrônico&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="90" width="520" height="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
