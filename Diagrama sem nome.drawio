@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="4">
   <diagram name="Página-1" id="Dri4ST9QpF148099Q7ri">
     <mxGraphModel dx="1032" dy="6410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,6 +250,20 @@
             <mxPoint x="160" y="490" as="sourcePoint" />
             <mxPoint x="210" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jU0BppbbvkyTibK1-Dns" name="Página-4">
+    <mxGraphModel dx="1042" dy="2903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E3XnA7YZc7okgdu8DbcA-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistema de Hospedagem de Hotel&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-1190" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3XnA7YZc7okgdu8DbcA-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1120" width="460" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
