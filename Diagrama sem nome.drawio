@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="3">
   <diagram name="Página-1" id="Dri4ST9QpF148099Q7ri">
     <mxGraphModel dx="1032" dy="6410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -142,113 +142,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="535" as="sourcePoint" />
             <mxPoint x="190" y="485" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="tdFiPZWTewIT7tay34pf" name="Página-3">
-    <mxGraphModel dx="1042" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ZVgapAApaD5kADnnPERy-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-30" width="370" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-2" value="&lt;b&gt;Recepcionista&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="260" width="90" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-4" value="&lt;b&gt;Cliente&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="80" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gerenciamento do Hotel&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="130" width="116" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistema de Reservas de Hotel&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-15" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Serviços oferecidos&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="274" y="60" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Gerenciamento de pagamento&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.25" y="220" width="116.5" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-21" value="&lt;b&gt;Auxiliar de limpeza&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="140" width="50" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Disponibilidade de Quartos&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="310" width="123" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Gerenciamento de Segurança&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="395" width="131" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.053;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="297.5" as="sourcePoint" />
-            <mxPoint x="260" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="310" as="sourcePoint" />
-            <mxPoint x="200" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="330" as="sourcePoint" />
-            <mxPoint x="230" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-31" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.025;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVgapAApaD5kADnnPERy-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="370" as="sourcePoint" />
-            <mxPoint x="283.92499999999995" y="424.15999999999985" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.993;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZVgapAApaD5kADnnPERy-5" target="ZVgapAApaD5kADnnPERy-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="410" as="sourcePoint" />
-            <mxPoint x="440" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVgapAApaD5kADnnPERy-19" target="ZVgapAApaD5kADnnPERy-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="680" as="sourcePoint" />
-            <mxPoint x="560" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVgapAApaD5kADnnPERy-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="420" as="sourcePoint" />
-            <mxPoint x="560" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="403" y="170" as="sourcePoint" />
-            <mxPoint x="453" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="406.75" y="340" as="sourcePoint" />
-            <mxPoint x="456.75" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-51" value="&lt;b&gt;Segurança&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="420" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ZVgapAApaD5kADnnPERy-51" target="ZVgapAApaD5kADnnPERy-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="380" as="sourcePoint" />
-            <mxPoint x="450" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZVgapAApaD5kADnnPERy-54" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.05;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZVgapAApaD5kADnnPERy-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="490" as="sourcePoint" />
-            <mxPoint x="210" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
